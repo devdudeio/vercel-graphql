@@ -18,6 +18,7 @@
   "homepage": "https://github.com/devdudeio/vercel-graphql#readme",
   "dependencies": {
     "@apollo/client": "^3.5.10",
-    "apollo-server-micro": "^3.6.6"
+    "apollo-server-micro": "^3.6.6",
+    "graphql": "^16.3.0"
   }
 }
